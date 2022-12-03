@@ -5,7 +5,7 @@ This is a stop watch created using html css and javascript
 
 1 hour and 30 mins approximately
 
-[Live Demo](https://caseconverter-akj.netlify.app/)
+[Live Demo](https://stopwatch-akj.netlify.app/)
 
 ### SnapShot of the program
 
